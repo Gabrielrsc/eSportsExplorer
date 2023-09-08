@@ -1,4 +1,4 @@
-<h1 align="center"># NLW eSports</h1>
+<h1 align="center">eSports [NLW#9</h1>
 
 ![preview](./.github/preview.png)
 
