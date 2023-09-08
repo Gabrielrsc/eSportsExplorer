@@ -8,6 +8,9 @@ Projeto construido do evento Next LEvel Week da Rocketseat.
 
 [ 🔗​ Clique aqui para acessar](https://gabrielrsc.github.io/eSportsExplorer/)
 
+Desafio proposto no conteudo.
+[ 🔗​ Clique aqui para acessar](https://gabrielrsc.github.io/eSportsExplorer/DesafioExplorer/)
+
 ## 🛠️ Tecnologias
 
 - HTML
